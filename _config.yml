@@ -73,13 +73,13 @@ theme_mode: dark # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/favicons/pfp.jpg"
+avatar: "https://pbs.twimg.com/media/Fz0oILRXoAM59ZR.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: true # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: Xyrelium # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
